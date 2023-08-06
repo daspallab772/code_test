@@ -1,3 +1,4 @@
+#this code is for machine info
 import psutil
 import platform
 from datetime import datetime
