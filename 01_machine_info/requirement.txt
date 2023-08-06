@@ -1,2 +1,3 @@
+#pip install -r requirement.txt
 psutil
 py-cpuinfo
